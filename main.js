@@ -14,3 +14,4 @@ $(document).ready(function(){
         $(this).closest('li').attr('id', 'riscado'); 
     }) 
 })
+//By gui
